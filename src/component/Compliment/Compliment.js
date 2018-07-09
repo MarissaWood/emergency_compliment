@@ -1,4 +1,4 @@
-var data = [
+const data = [
   "Good effort!",
   "What a fine sweater!",
   "I appreciate all of your opinions.",
